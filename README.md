@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nasirmca
+- 👋 Hi, I’m @nasir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
